@@ -9,14 +9,18 @@ A Python-based automation bot for Last War: Survival, designed to run on Android
 
 This project automates repetitive in-game actions while maintaining adaptability through screen analysis and a configurable GUI interface.
 
+
 🚀 Core Technologies
+
 Python
 ADB (Android Debug Bridge) for device/emulator control
 OCR (Optical Character Recognition) for dynamic UI reading
 Pixel & image detection for state recognition
 Graphical User Interface (GUI) for configuration and monitoring
 
+
 🔍 How It Works
+
 The bot connects to an Android emulator via ADB and:
 Captures screen frames
 Uses pixel sampling and template matching for UI state detection
@@ -25,7 +29,9 @@ Executes automated input commands (tap, swipe, etc.)
 Runs decision-based logic depending on detected game state
 This hybrid detection approach (pixel + OCR) makes the bot more resilient to UI changes compared to simple coordinate-based automation.
 
+
 ✨ Features
+
 Automated resource collection
 Farming and repetitive task automation
 Mission/task handling
@@ -43,7 +49,9 @@ Enabling/disabling modules
 Adjusting intervals and behavior
 Monitoring logs and status
 
+
 🖥 Requirements
+
 Python 3.x
 Android Emulator (BlueStacks, LDPlayer, Nox, etc.)
 ADB enabled
