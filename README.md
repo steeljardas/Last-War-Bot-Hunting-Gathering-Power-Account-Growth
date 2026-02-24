@@ -3,6 +3,8 @@ Last War Survival Bot Made for android emulators like LDPlayer, Bluestacks, Nox,
 
 Download here: https://godlikebots.com/last-war-survival-bot/
 
+![Bot Screenshot]([https://i0.wp.com/godlikebots.com/wp-content/uploads/2024/08/lastwarbot.png?w=389&ssl=1])
+
 ## Last War: Survival – Emulator Automation Bot
 
 A Python-based automation bot for Last War: Survival, designed to run on Android emulators using ADB communication, OCR recognition, and pixel-based detection.
