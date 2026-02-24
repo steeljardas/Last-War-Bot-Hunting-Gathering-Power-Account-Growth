@@ -3,14 +3,14 @@ Last War Survival Bot Made for android emulators like LDPlayer, Bluestacks, Nox,
 
 Download here: https://godlikebots.com/last-war-survival-bot/
 
-##Last War: Survival – Emulator Automation Bot
+## Last War: Survival – Emulator Automation Bot
 
 A Python-based automation bot for Last War: Survival, designed to run on Android emulators using ADB communication, OCR recognition, and pixel-based detection.
 
 This project automates repetitive in-game actions while maintaining adaptability through screen analysis and a configurable GUI interface.
 
 
-###🚀 Core Technologies
+### 🚀 Core Technologies
 
 Python
 
@@ -23,7 +23,7 @@ Pixel & image detection for state recognition
 Graphical User Interface (GUI) for configuration and monitoring
 
 
-###🔍 How It Works
+### 🔍 How It Works
 
 The bot connects to an Android emulator via ADB and:
 
@@ -40,7 +40,7 @@ Runs decision-based logic depending on detected game state
 This hybrid detection approach (pixel + OCR) makes the bot more resilient to UI changes compared to simple coordinate-based automation.
 
 
-###✨ Features
+### ✨ Features
 
 Automated resource collection
 
@@ -76,7 +76,7 @@ Monitoring logs and status
 
 
 
-###🖥 Requirements
+### 🖥 Requirements
 
 Python 3.x
 
@@ -89,7 +89,7 @@ Last War: Survival installed
 Required Python dependencies (see requirements.txt)
 
 
-###⚠️ Disclaimer
+### ⚠️ Disclaimer
 This software is provided for educational and research purposes only.
 
 Using automation tools may violate the game’s Terms of Service and could result in account penalties. Use at your own risk.
