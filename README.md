@@ -89,9 +89,3 @@ ADB enabled
 Last War: Survival installed
 
 Required Python dependencies (see requirements.txt)
-
-
-### ⚠️ Disclaimer
-This software is provided for educational and research purposes only.
-
-Using automation tools may violate the game’s Terms of Service and could result in account penalties. Use at your own risk.
