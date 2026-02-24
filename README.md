@@ -3,7 +3,7 @@ Last War Survival Bot Made for android emulators like LDPlayer, Bluestacks, Nox,
 
 Download here: https://godlikebots.com/last-war-survival-bot/
 
-![Bot Screenshot]([https://i0.wp.com/godlikebots.com/wp-content/uploads/2024/08/lastwarbot.png?w=389&ssl=1])
+![Bot Screenshot](https://i0.wp.com/godlikebots.com/wp-content/uploads/2024/08/lastwarbot.png?w=389&ssl=1)
 
 ## Last War: Survival – Emulator Automation Bot
 
